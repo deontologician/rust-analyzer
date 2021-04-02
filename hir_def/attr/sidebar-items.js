@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AttrInput",""]],"struct":[["Attr",""],["AttrQuery",""],["AttrSourceMap",""],["Attrs",""],["AttrsWithOwner",""],["Documentation","Holds documentation"]]});
